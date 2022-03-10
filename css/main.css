@@ -8,6 +8,9 @@ video {
   width: 100%;
   height: auto;
 }
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)
+}
 <style > .attribution {
   font-size: 11px;
   text-align: center;
