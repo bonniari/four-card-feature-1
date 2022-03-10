@@ -1,5 +1,7 @@
 /* Decent Defaults */
 
+@import url(https://fonts.google.com/specimen/Poppins?query=poppins);
+
 img {
   width: 50px;
   height: 50px;
@@ -11,7 +13,25 @@ video {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2)
 }
-<style > .attribution {
+body{
+  font-family: 'Poppins', sans-serif;  
+  color:hsl(234, 12%, 34%); 
+}
+h1 { 
+
+}
+h2  {
+  font-weight: lighter;
+}
+h4
+p {
+  font-size: 15px;
+  font-weight: lighter; 
+
+}
+
+<style > 
+.attribution {
   font-size: 11px;
   text-align: center;
 }
